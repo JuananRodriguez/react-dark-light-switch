@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import Switch from './Switch';
+// import Switch from './Switch';
+import Switch from './Switchv2';
 import './App.css';
 
 function App() {
